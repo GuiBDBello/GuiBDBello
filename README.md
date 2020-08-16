@@ -19,24 +19,24 @@
   <tr>
     <td valign="top" width="50%">
       <a href="https://kampari.itch.io/shapezoid" target="_blank">
-        <img src="./img/Shapezoid.png" alt="Shapezoid"/>
+        <img src="./img/Shapezoid.png" align="center" height="" width="600">
       </a>
       <a href="https://kampari.itch.io/unreliable" target="_blank">
-        <img src="./img/Unreliable.png" alt="Unreliable"/>
+        <img src="./img/Unreliable.png" align="center" height="" width="600"/>
       </a>
       <a href="https://kampari.itch.io/conscientize" target="_blank">
-        <img src="./img/Conscientize.png" alt="Conscientize"/>
+        <img src="./img/Conscientize.png" align="center" height="" width="600"/>
       </a>
     </td>
     <td valign="top" width="50%">
       <a href="https://kampari.itch.io/the-shot" target="_blank">
-        <img src="./img/TheShot.png" alt="The Shot!"/>
+        <img src="./img/TheShot.png" align="center" height="" width="600"/>
       </a>
       <a href="https://kampari.itch.io/block-n-run" target="_blank">
-        <img src="./img/BlockAndRun.png" alt="Block n' Run"/>
+        <img src="./img/BlockAndRun.png" align="center" height="" width="600"/>
       </a>
       <a href="https://kampari.itch.io/treasure-chasers" target="_blank">
-        <img src="./img/TreasureChasers.png" alt="Treasure Chasers"/>
+        <img src="./img/TreasureChasers.png" align="center" height="" width="600"/>
       </a>
     </td>
   </tr>
