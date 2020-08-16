@@ -15,32 +15,34 @@
 
 <br/>  
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://kampari.itch.io/shapezoid" target="_blank">
-        <img src="./img/Shapezoid.png" align="center" height="" width="600">
-      </a>
-      <a href="https://kampari.itch.io/unreliable" target="_blank">
-        <img src="./img/Unreliable.png" align="center" height="" width="600"/>
-      </a>
-      <a href="https://kampari.itch.io/conscientize" target="_blank">
-        <img src="./img/Conscientize.png" align="center" height="" width="600"/>
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://kampari.itch.io/the-shot" target="_blank">
-        <img src="./img/TheShot.png" align="center" height="" width="600"/>
-      </a>
-      <a href="https://kampari.itch.io/block-n-run" target="_blank">
-        <img src="./img/BlockAndRun.png" align="center" height="" width="600"/>
-      </a>
-      <a href="https://kampari.itch.io/treasure-chasers" target="_blank">
-        <img src="./img/TreasureChasers.png" align="center" height="" width="600"/>
-      </a>
-    </td>
-  </tr>
-</table>  
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <a href="https://kampari.itch.io/shapezoid" target="_blank">
+          <img src="./img/Shapezoid.png" align="center" height="" width="600">
+        </a>
+        <a href="https://kampari.itch.io/unreliable" target="_blank">
+          <img src="./img/Unreliable.png" align="center" height="" width="600"/>
+        </a>
+        <a href="https://kampari.itch.io/conscientize" target="_blank">
+          <img src="./img/Conscientize.png" align="center" height="" width="600"/>
+        </a>
+      </td>
+      <td valign="top" width="50%">
+        <a href="https://kampari.itch.io/the-shot" target="_blank">
+          <img src="./img/TheShot.png" align="center" height="" width="600"/>
+        </a>
+        <a href="https://kampari.itch.io/block-n-run" target="_blank">
+          <img src="./img/BlockAndRun.png" align="center" height="" width="600"/>
+        </a>
+        <a href="https://kampari.itch.io/treasure-chasers" target="_blank">
+          <img src="./img/TreasureChasers.png" align="center" height="" width="600"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>  
 
