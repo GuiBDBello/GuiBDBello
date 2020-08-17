@@ -10,32 +10,9 @@
 - ❓ Ask me about anything related to Java, Javascript or Game Development  
   
 
-- ⚡ Fun fact: I have some games published, check it out:  
-  
+- ⚡ Fun fact: I have some games published, check it out my profile at [itch.io](kampari.itch.io)
 
-<br/>  
-
-<div align="center">
-  <img src="./img/Shapezoid.png" align="center" />
-</div>
-<div align="center">
-  <img src="./img/TheShot.png" align="center" />
-</div>
-<div align="center">
-  <img src="./img/Unreliable.png" align="center" />
-</div>
-<div align="center">
-  <img src="./img/BlockAndRun.png" align="center" />
-</div>
-<div align="center">
-  <img src="./img/Conscientize.png" align="center" />
-</div>
-<div align="center">
-  <img src="./img/TreasureChasers.png" align="center" />
-</div>
-
-<br/>  
-
+<br/>
 
 ## Connect with me  
 <div align="center">
