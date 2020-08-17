@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to Java, Javascript or Game Development  
   
 
-- ⚡ Fun fact: I have some games published, check it out my profile at [itch.io](kampari.itch.io)
+- ⚡ Fun fact: I have some games published, check it out my profile at [itch.io](https://kampari.itch.io/)
 
 <br/>
 
