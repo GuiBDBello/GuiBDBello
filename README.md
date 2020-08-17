@@ -15,12 +15,24 @@
 
 <br/>  
 
-![Shapezoid](./img/Shapezoid.png)
-![The Shot!](./img/TheShot.png)
-![Unreliable](./img/Unreliable.png)
-![Block n' Run](./img/BlockAndRun.png)
-![Conscientize](./img/Conscientize.png)
-![Treasure Chasers](./img/TreasureChasers.png)
+<div align="center">
+  <img src="./img/Shapezoid.png" align="center" />
+</div>
+<div align="center">
+  <img src="./img/TheShot.png" align="center" />
+</div>
+<div align="center">
+  <img src="./img/Unreliable.png" align="center" />
+</div>
+<div align="center">
+  <img src="./img/BlockAndRun.png" align="center" />
+</div>
+<div align="center">
+  <img src="./img/Conscientize.png" align="center" />
+</div>
+<div align="center">
+  <img src="./img/TreasureChasers.png" align="center" />
+</div>
 
 <br/>  
 
