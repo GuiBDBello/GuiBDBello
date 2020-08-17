@@ -15,34 +15,12 @@
 
 <br/>  
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <a href="https://kampari.itch.io/shapezoid" target="_blank">
-          <img src="./img/Shapezoid.png" align="center" height="" width="600" alt="Shapezoid">
-        </a>
-        <a href="https://kampari.itch.io/unreliable" target="_blank">
-          <img src="./img/Unreliable.png" align="center" height="" width="600" alt="Unreliable"/>
-        </a>
-        <a href="https://kampari.itch.io/conscientize" target="_blank">
-          <img src="./img/Conscientize.png" align="center" height="" width="600" alt="Conscientize"/>
-        </a>
-      </td>
-      <td valign="top" width="50%">
-        <a href="https://kampari.itch.io/the-shot" target="_blank">
-          <img src="./img/TheShot.png" align="center" height="" width="600" alt="The Shot!"/>
-        </a>
-        <a href="https://kampari.itch.io/block-n-run" target="_blank">
-          <img src="./img/BlockAndRun.png" align="center" height="" width="600" alt="Block n' Run"/>
-        </a>
-        <a href="https://kampari.itch.io/treasure-chasers" target="_blank">
-          <img src="./img/TreasureChasers.png" align="center" height="" width="600" alt="Treasure Chasers"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+![Shapezoid](./img/Shapezoid.png)
+![The Shot!](./img/TheShot.png)
+![Unreliable](./img/Unreliable.png)
+![Block n' Run](./img/BlockAndRun.png)
+![Conscientize](./img/Conscientize.png)
+![Treasure Chasers](./img/TreasureChasers.png)
 
 <br/>  
 
