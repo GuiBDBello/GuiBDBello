@@ -1,16 +1,6 @@
 ### <div align="center">Hi there 👋 I'm Guilherme, a software developer.</div>  
-  
 
-- 🔭 I’m currently working at Weecode  
-  
-
-- 🌱 I’m currently learning Spring Framework, ReactJS and Game Development (mainly Unity)  
-  
-
-- ❓ Ask me about anything related to Java, Javascript or Game Development  
-  
-
-- ⚡ Fun fact: I have some games published, check it out my profile at [itch.io](https://kampari.itch.io/)
+- ⚡ I also like to create games, and I have some of them published. Check it out my profile at [itch.io](https://kampari.itch.io/)
 
 <br/>
 
