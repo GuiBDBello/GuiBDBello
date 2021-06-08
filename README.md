@@ -2,14 +2,14 @@
 
 ---
 
-Find my published games at [Itch.io](https://guidb.itch.io)
+Find my published games at [Itch.io](https://guibdbello.itch.io)
 
 ---
 
-Take a look at my personal [Website](https://guidb.github.io)
+Take a look at my personal [Website](https://guibdbello.github.io)
 
 ---
 
-Also, follow me on [Twitter](https://twitter.com/Gui_DB) and connect with me on [LinkedIn](https://www.linkedin.com/in/guilhermedallbello)
+Also, follow me on [Twitter](https://twitter.com/GuiBDBello) and connect with me on [LinkedIn](https://www.linkedin.com/in/guilhermedallbello)
 
 ---
