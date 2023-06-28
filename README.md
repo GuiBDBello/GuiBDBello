@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [guibdbello.github.io](guibdbello.github.io)
+- 👨‍💻 All of my projects are available at [guibdbello.github.io](https://guibdbello.github.io)
 
 - ⚡ Fun fact **I play chess regularly, but I suck at it.**
 
