@@ -1,4 +1,4 @@
-<div style="font-family: JetBrains Mono, Consolas, Courier New, monospace">
+<div style="font-family: roboto, verdana, monospace; font-size: 22px;">
     <h3 align="center"><a href="https://guibdbello.github.io">Portfolio</a></h3>
     <p align="center">
         <a href="https://discord.gg/.guibdbello" target="blank">Discord</a> | 
