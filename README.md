@@ -1,5 +1,4 @@
-<code>
-<div>
+<div style="font-family: JetBrains Mono, Consolas, Courier New, monospace">
     <h3 align="center"><a href="https://guibdbello.github.io">Portfolio</a></h3>
     <p align="center">
         <a href="https://discord.gg/.guibdbello" target="blank">Discord</a> | 
@@ -7,4 +6,3 @@
         <a href="https://x.com/guibdbello" target="blank">Twitter / X</a>
     </p>
 </div>
-</code>
