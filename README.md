@@ -14,7 +14,7 @@
         <br/>
         <a href="https://linkedin.com/in/guibdbello" target="_blank" rel="noreferrer"> <img src="./assets/icons/linkedin.png" alt="linkedin" width="40" height="40"/> </a>
         <a href="https://steamcommunity.com/id/GuiBDBello/" target="_blank" rel="noreferrer"> <img src="./assets/icons/steam.png" alt="steam" width="40" height="40"/> </a>
-        <a href="https://x.com/guibdbello" target="_blank" rel="noreferrer"> <img src="./assets/icons/twitter.png" alt="twitter" width="40" height="40"/> </a>
+        <a href="https://x.com/guibdbello" target="_blank" rel="noreferrer"> <img src="./assets/icons/x.png" alt="x" width="40" height="40"/> </a>
     </details>
     <hr/>
     <details>
