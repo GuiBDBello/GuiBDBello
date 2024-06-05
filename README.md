@@ -6,7 +6,7 @@
         <summary>Dev</summary>
         <br/>
         <a href="https://github.com/GuiBDBello" target="_blank" rel="noreferrer"> <img src="./assets/icons/github.png" alt="github" width="40" height="40"/> </a>
-        <a href="https://x.com/guibdbello" target="_blank" rel="noreferrer"> <img src="./assets/icons/itchio.png" alt="itch" width="40" height="40"/> </a>
+        <a href="https://guibdbello.itch.io/" target="_blank" rel="noreferrer"> <img src="./assets/icons/itchio.png" alt="itch" width="40" height="40"/> </a>
     </details>
     <hr/>
     <details>
