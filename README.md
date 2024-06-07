@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>I create things with tech.</h2>
+    <h1>I create things with tech.</h1>
     <h3><a href="https://guibdbello.github.io">Portfolio</a></h3>
     <hr/>
     <details>
