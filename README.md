@@ -22,5 +22,6 @@
         <br/>
         <a href="https://www.artstation.com/guibdbello" target="_blank" rel="noreferrer"> <img src="./assets/icons/artstation.png" alt="artstation" width="40" height="40"/> </a>
         <a href="https://sketchfab.com/GuiBDBello" target="_blank" rel="noreferrer"> <img src="./assets/icons/sketchfab.png" alt="sketchfab" width="40" height="40"/> </a>
+        <a href="https://soundcloud.com/guibdbello" target="_blank" rel="noreferrer"> <img src="./assets/icons/soundcloud.png" alt="soundcloud" width="40" height="40"/> </a>
     </details>
 </div>
